@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS310H Projects/HW1/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/CS310H Projects/HW1/Content/My_Blueprints/BPSpinningObject.uasset",
+				"D:/CS310H Projects/HW1/Content/HW1.umap",
+				"D:/CS310H Projects/HW1/Content/My_Blueprints/BPMessage.uasset",
+				"D:/CS310H Projects/HW1/Content/My_Blueprints/BPSwitch.uasset",
+				"D:/CS310H Projects/HW1/Content/My_Blueprints/BPLightswitch.uasset",
+				"D:/CS310H Projects/HW1/Content/My_Blueprints/BPBarrel.uasset"
+			]
+		}
+	]
+}
